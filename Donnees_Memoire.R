@@ -2,7 +2,7 @@
 #####                                                            #####################
 ##### MEMOIRE M1: Vaccination infantile en Afrique Subsaharienne #####################
 #####  enfant de 12-23 mois                                      #####################
-######################################################################################
+###################################################################################### 
 
 # Chemin d'accèes aux fichiers
 setwd("C:/Users/nosty/Desktop/MEMOIRE/DocMemoire/Données/RCI/CIKR81DT")
